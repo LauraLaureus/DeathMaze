@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\PortalController.cs" />
      <Compile Include="Assets\Scripts\CameraRotationController.cs" />
      <Compile Include="Assets\Scripts\ChangeScene.cs" />
  <Reference Include="UnityEngine.UI">
